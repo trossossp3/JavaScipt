@@ -21,7 +21,7 @@
     "nodemailer": "^4.6.4",
     "prompt-sync": "^4.1.6",
     "prompt-sync-history": "^1.0.1",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "timers": "^0.1.1"
   }
 }
